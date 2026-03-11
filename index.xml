@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rencj&#39;s Blog</title>
+    <link>https://Rencj-number7.github.io/</link>
+    <description>Recent content on Rencj&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>2337428685@qq.com (Rencj)</managingEditor>
+    <webMaster>2337428685@qq.com (Rencj)</webMaster>
+    <copyright>© 2026 - 2026</copyright>
+    <atom:link href="https://Rencj-number7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

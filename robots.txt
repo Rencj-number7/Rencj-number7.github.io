@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Rencj-number7.github.io/sitemap.xml
