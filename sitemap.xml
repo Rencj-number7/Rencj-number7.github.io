@@ -21,6 +21,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://Rencj-number7.github.io/ctf/hgame2026/</loc>
+    <lastmod>2026-02-16T19:20:59+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Rencj-number7.github.io/ctf/</loc>
+    <lastmod>2026-02-16T19:20:59+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Rencj-number7.github.io/acm/</loc>
     <lastmod>2022-11-24T19:59:41+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -83,11 +95,6 @@
   <url>
     <loc>https://Rencj-number7.github.io/acm/p2308/</loc>
     <lastmod>2022-02-19T21:46:10+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Rencj-number7.github.io/ctf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
