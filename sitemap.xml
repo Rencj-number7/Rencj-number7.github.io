@@ -9,20 +9,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://Rencj-number7.github.io/acm/gplt2026/</loc>
+    <lastmod>2026-04-21T14:33:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Rencj-number7.github.io/</loc>
-    <lastmod>2026-04-20T20:10:49+08:00</lastmod>
+    <lastmod>2026-04-21T14:33:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Rencj-number7.github.io/acm/</loc>
+    <lastmod>2026-04-21T14:33:50+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://Rencj-number7.github.io/posts/</loc>
     <lastmod>2026-04-20T20:10:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Rencj-number7.github.io/about/about/</loc>
-    <lastmod>2026-03-11T14:20:36+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,12 +47,6 @@
   <url>
     <loc>https://Rencj-number7.github.io/ctf/</loc>
     <lastmod>2026-02-16T19:20:59+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Rencj-number7.github.io/acm/</loc>
-    <lastmod>2022-11-24T19:59:41+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
