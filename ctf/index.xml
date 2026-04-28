@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WP和杂文 on Rencj&#39;s Blog</title>
-    <link>https://Rencj-number7.github.io/ctf/</link>
+    <link>http://localhost:1313/ctf/</link>
     <description>Recent content in WP和杂文 on Rencj&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>2337428685@qq.com (Rencj)</managingEditor>
     <webMaster>2337428685@qq.com (Rencj)</webMaster>
     <copyright>© 2026 - 2026</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 19:20:59 +0800</lastBuildDate><atom:link href="https://Rencj-number7.github.io/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Feb 2026 19:20:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hgame2026 WP</title>
-      <link>https://Rencj-number7.github.io/ctf/hgame2026/</link>
+      <link>http://localhost:1313/ctf/hgame2026/</link>
       <pubDate>Mon, 16 Feb 2026 19:20:59 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>https://Rencj-number7.github.io/ctf/hgame2026/</guid>
+      <guid>http://localhost:1313/ctf/hgame2026/</guid>
       <description></description>
       
     </item>
