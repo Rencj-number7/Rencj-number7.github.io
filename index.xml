@@ -2,161 +2,161 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rencj&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Rencj-number7.github.io/</link>
     <description>Recent content on Rencj&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>2337428685@qq.com (Rencj)</managingEditor>
     <webMaster>2337428685@qq.com (Rencj)</webMaster>
     <copyright>© 2026 - 2026</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 23:30:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Apr 2026 23:30:16 +0800</lastBuildDate><atom:link href="https://Rencj-number7.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://Rencj-number7.github.io/posts/hello/</link>
       <pubDate>Mon, 20 Apr 2026 20:10:49 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://Rencj-number7.github.io/posts/hello/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>XCTF Keyword</title>
-      <link>http://localhost:1313/ctf/problem/misc/xctf-keyword/</link>
+      <link>https://Rencj-number7.github.io/ctf/problem/misc/xctf-keyword/</link>
       <pubDate>Mon, 27 Apr 2026 23:30:16 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/ctf/problem/misc/xctf-keyword/</guid>
+      <guid>https://Rencj-number7.github.io/ctf/problem/misc/xctf-keyword/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GPLT2026天梯赛</title>
-      <link>http://localhost:1313/acm/gplt2026/</link>
+      <link>https://Rencj-number7.github.io/acm/gplt2026/</link>
       <pubDate>Tue, 21 Apr 2026 14:33:50 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/gplt2026/</guid>
+      <guid>https://Rencj-number7.github.io/acm/gplt2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://Rencj-number7.github.io/about/</link>
       <pubDate>Wed, 11 Mar 2026 14:20:36 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://Rencj-number7.github.io/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hgame2026 WP</title>
-      <link>http://localhost:1313/ctf/hgame2026/</link>
+      <link>https://Rencj-number7.github.io/ctf/hgame2026/</link>
       <pubDate>Mon, 16 Feb 2026 19:20:59 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/ctf/hgame2026/</guid>
+      <guid>https://Rencj-number7.github.io/ctf/hgame2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>退役前要做的100件事</title>
-      <link>http://localhost:1313/acm/afo100/</link>
+      <link>https://Rencj-number7.github.io/acm/afo100/</link>
       <pubDate>Thu, 24 Nov 2022 19:59:41 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/afo100/</guid>
+      <guid>https://Rencj-number7.github.io/acm/afo100/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>关于部分学过的算法统计</title>
-      <link>http://localhost:1313/acm/learn_algo/</link>
+      <link>https://Rencj-number7.github.io/acm/learn_algo/</link>
       <pubDate>Tue, 22 Nov 2022 19:55:29 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/learn_algo/</guid>
+      <guid>https://Rencj-number7.github.io/acm/learn_algo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CF1009E题解</title>
-      <link>http://localhost:1313/acm/cf1009e/</link>
+      <link>https://Rencj-number7.github.io/acm/cf1009e/</link>
       <pubDate>Sun, 13 Nov 2022 16:19:47 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/cf1009e/</guid>
+      <guid>https://Rencj-number7.github.io/acm/cf1009e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CSP-S2022游记</title>
-      <link>http://localhost:1313/acm/csp2022/</link>
+      <link>https://Rencj-number7.github.io/acm/csp2022/</link>
       <pubDate>Tue, 01 Nov 2022 07:11:34 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/csp2022/</guid>
+      <guid>https://Rencj-number7.github.io/acm/csp2022/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Atcoder ABC220E</title>
-      <link>http://localhost:1313/acm/abc220e/</link>
+      <link>https://Rencj-number7.github.io/acm/abc220e/</link>
       <pubDate>Tue, 11 Oct 2022 16:16:41 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/abc220e/</guid>
+      <guid>https://Rencj-number7.github.io/acm/abc220e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Trick</title>
-      <link>http://localhost:1313/acm/trick/</link>
+      <link>https://Rencj-number7.github.io/acm/trick/</link>
       <pubDate>Fri, 30 Sep 2022 19:34:35 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/trick/</guid>
+      <guid>https://Rencj-number7.github.io/acm/trick/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CF随机做题</title>
-      <link>http://localhost:1313/acm/cf%E9%9A%8F%E6%9C%BA%E5%81%9A%E9%A2%98/</link>
+      <link>https://Rencj-number7.github.io/acm/cf%E9%9A%8F%E6%9C%BA%E5%81%9A%E9%A2%98/</link>
       <pubDate>Fri, 30 Sep 2022 19:27:56 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/cf%E9%9A%8F%E6%9C%BA%E5%81%9A%E9%A2%98/</guid>
+      <guid>https://Rencj-number7.github.io/acm/cf%E9%9A%8F%E6%9C%BA%E5%81%9A%E9%A2%98/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>UVA12412 A Typical Homework (a.k.a 师兄帮帮忙)题解</title>
-      <link>http://localhost:1313/acm/uva12412/</link>
+      <link>https://Rencj-number7.github.io/acm/uva12412/</link>
       <pubDate>Fri, 11 Mar 2022 16:13:44 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/uva12412/</guid>
+      <guid>https://Rencj-number7.github.io/acm/uva12412/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CF507E Breaking Good题解</title>
-      <link>http://localhost:1313/acm/cf507e/</link>
+      <link>https://Rencj-number7.github.io/acm/cf507e/</link>
       <pubDate>Sat, 19 Feb 2022 21:46:10 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/cf507e/</guid>
+      <guid>https://Rencj-number7.github.io/acm/cf507e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>洛谷P2308 添加括号</title>
-      <link>http://localhost:1313/acm/p2308/</link>
+      <link>https://Rencj-number7.github.io/acm/p2308/</link>
       <pubDate>Sat, 19 Feb 2022 21:46:10 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/acm/p2308/</guid>
+      <guid>https://Rencj-number7.github.io/acm/p2308/</guid>
       <description></description>
       
     </item>

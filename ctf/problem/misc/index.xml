@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MISC on Rencj&#39;s Blog</title>
-    <link>http://localhost:1313/ctf/problem/misc/</link>
+    <link>https://Rencj-number7.github.io/ctf/problem/misc/</link>
     <description>Recent content in MISC on Rencj&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>2337428685@qq.com (Rencj)</managingEditor>
     <webMaster>2337428685@qq.com (Rencj)</webMaster>
     <copyright>© 2026 - 2026</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 23:30:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/ctf/problem/misc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Apr 2026 23:30:16 +0800</lastBuildDate><atom:link href="https://Rencj-number7.github.io/ctf/problem/misc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>XCTF Keyword</title>
-      <link>http://localhost:1313/ctf/problem/misc/xctf-keyword/</link>
+      <link>https://Rencj-number7.github.io/ctf/problem/misc/xctf-keyword/</link>
       <pubDate>Mon, 27 Apr 2026 23:30:16 +0800</pubDate>
       <author>2337428685@qq.com (Rencj)</author>
-      <guid>http://localhost:1313/ctf/problem/misc/xctf-keyword/</guid>
+      <guid>https://Rencj-number7.github.io/ctf/problem/misc/xctf-keyword/</guid>
       <description></description>
       
     </item>
