@@ -2,10 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
 import "katex/dist/katex.min.css";
+import "highlight.js/styles/github-dark.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://blog.rencj.top"),
   title: { default: "Rencj's Blog", template: "%s · Rencj's Blog" },
   description: "记录技术实践、阅读思考与持续学习。",
+  icons: { icon: "/logo.jpg", apple: "/logo.jpg" },
+  openGraph: { title: "Rencj's Blog", description: "记录技术实践、阅读思考与持续学习。", images: ["/social-preview.jpg"] },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

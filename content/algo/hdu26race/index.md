@@ -26,7 +26,7 @@ draft: false
 
 $Code:$
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 const int N=1e5+5;
@@ -61,7 +61,7 @@ signed main(){
 
  $Code:$
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long
@@ -104,7 +104,7 @@ signed main(){
 
 $Code:$
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long
@@ -158,7 +158,7 @@ signed main(){
 
 $Code:$
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 const int N=1005,inf=0x3f3f3f3f;
