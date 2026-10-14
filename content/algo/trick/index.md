@@ -50,7 +50,7 @@ description: ""
 > 定义：$\mu(n)=\left\{ 
 >     \begin{array}{lc}
 >         1 & n=1 \\
->         0 & n含有平方因子\$-1)^k & k为 n 的本质不同质因子个数\end{array}
+>         0 & n含有平方因子\\(-1)^k & k为 n 的本质不同质因子个数\end{array}
 > \right.$
 >
 > 性质：$\sum\limits_{d|n}\mu(d)=\left\{ 

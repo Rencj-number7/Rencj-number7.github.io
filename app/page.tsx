@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getPosts } from "../lib/posts";
+import { postHref } from "../lib/paths";
 
 export default async function Home() {
   const posts = (await getPosts()).slice(0, 4);
@@ -21,7 +22,7 @@ export default async function Home() {
         posts.map((post) => 
         <article className="post-card" key={post.slug}>
           <p className="post-date">{post.date}</p>
-          <h3><Link href={`/posts/${post.slug}`}>{post.title}</Link></h3>{post.description && <p>{post.description}</p>}
+          <h3><Link href={postHref(post.slug)}>{post.title}</Link></h3>{post.description && <p>{post.description}</p>}
           <div className="tags">{post.tags.map((tag) => <span key={tag}>{tag}</span>)}</div>
         </article>)
         }
