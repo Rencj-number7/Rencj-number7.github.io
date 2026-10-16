@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description: "记录技术实践、阅读思考与持续学习。",
   icons: { icon: "/logo.jpg", apple: "/logo.jpg" },
   openGraph: { title: "Rencj's Blog", description: "记录技术实践、阅读思考与持续学习。", images: ["/social-preview.jpg"] },
+  alternates: { types: { "application/rss+xml": "/rss.xml" } },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
