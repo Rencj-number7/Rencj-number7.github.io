@@ -4,6 +4,7 @@ date: 2026-02-16
 category: CTF
 tags: 
   - CTF
+  - 比赛
 draft: false
 ---
 ## 队伍 ：Rencj #000a9a

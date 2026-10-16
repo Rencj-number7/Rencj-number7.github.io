@@ -7,7 +7,7 @@ export default async function Home() {
   return <main>
     <section className="hero container">
       <p className="eyebrow">个人博客 · 持续更新</p><h1>把想法写下来，<br /><em>让它们慢慢长出来。</em></h1>
-      <p className="hero-copy">这里记录开发实践、工具探索和那些值得反复思考的小问题。</p>
+      <p className="hero-copy">这里记录有趣经历，解题记录等随笔。</p>
       <div className="hero-actions">
         <Link className="button primary" href="/posts">阅读文章 
         <span>→</span></Link><Link className="text-link" href="/about">了解我</Link>

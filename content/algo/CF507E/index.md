@@ -4,6 +4,7 @@ date: 2022-02-19
 category: 算法竞赛
 tags: 
   -  算法竞赛
+  -  题解
 draft: false
 ---
 ## [题目传送门](https://www.luogu.com.cn/problem/CF507E)

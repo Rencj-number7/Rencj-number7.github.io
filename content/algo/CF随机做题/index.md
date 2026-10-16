@@ -4,6 +4,7 @@ date: 2022-09-30
 category: 算法竞赛
 tags: 
   -  算法竞赛
+  -  题解
 draft: false
 ---
 ## [CF1000C](https://www.luogu.com.cn/problem/CF1000C)  

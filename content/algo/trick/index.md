@@ -4,6 +4,7 @@ date: 2022-09-30
 category: 算法竞赛
 tags: 
   -  算法竞赛
+  - trick
 draft: false
 description: ""
 ---

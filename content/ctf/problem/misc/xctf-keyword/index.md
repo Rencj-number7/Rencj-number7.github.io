@@ -4,6 +4,7 @@ date: 2026-04-27
 category: CTF
 tags: 
   - CTF
+  - Misc
 draft: false
 ---
 >有趣的加密

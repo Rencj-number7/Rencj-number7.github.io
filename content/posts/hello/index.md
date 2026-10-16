@@ -3,7 +3,6 @@ title: "Hello"
 date: 2026-04-20
 tags:
   - 日常
-  - Next.js
 ---
 
 ## 欢迎来到我的新博客。

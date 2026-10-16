@@ -4,6 +4,7 @@ date: 2022-11-13
 category: 算法竞赛
 tags: 
   -  算法竞赛
+  -  题解
 draft: false
 ---
 ## CF1009E 题解

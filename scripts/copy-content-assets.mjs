@@ -3,7 +3,7 @@ import path from "node:path";
 
 const contentRoot = path.resolve("content");
 const outputRoot = path.resolve("public", "content");
-const imageExtensions = new Set([".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".avif", ".bmp"]);
+const assetExtensions = new Set([".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".avif", ".bmp", ".pdf"]);
 
 async function copyImages(sourceDir, relativeDir = "") {
   const entries = await readdir(sourceDir, { withFileTypes: true });
@@ -12,7 +12,7 @@ async function copyImages(sourceDir, relativeDir = "") {
     const sourcePath = path.join(sourceDir, entry.name);
     if (entry.isDirectory()) {
       await copyImages(sourcePath, relativePath);
-    } else if (entry.isFile() && imageExtensions.has(path.extname(entry.name).toLowerCase())) {
+    } else if (entry.isFile() && assetExtensions.has(path.extname(entry.name).toLowerCase())) {
       const targetPath = path.join(outputRoot, relativePath);
       await mkdir(path.dirname(targetPath), { recursive: true });
       await cp(sourcePath, targetPath);

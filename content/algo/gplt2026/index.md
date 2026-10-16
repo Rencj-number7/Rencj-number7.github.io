@@ -4,6 +4,7 @@ date: 2026-04-21
 category: 算法竞赛
 tags: 
   -  算法竞赛
+  -  比赛
 draft: false
 description: ""
 ---
